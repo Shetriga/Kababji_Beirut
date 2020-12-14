@@ -2,10 +2,46 @@
 #logo {
   text-align: center;
   margin-top: 100px;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 .logo-image {
   width: 80%;
   height: 80%;
+}
+
+.menu-heading {
+  font-size: 8rem;
+  font-weight: bolder;
+  margin-bottom: 50px;
+  text-align: right;
+  margin-right: 150px;
+  color: #a78283;
+}
+
+.menu-item {
+  margin: 7px 0;
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #8dc0b8;
+}
+
+.menu-item-price {
+  color: #a78283;
+  font-size: 1.3rem;
+  margin: 7px 0;
+  font-weight: bold;
+}
+
+.col-colored {
+  background-color: #f0f5f8;
+}
+
+.col-price {
+  text-align: left;
+}
+
+/* SOUP SECTION */
+#soup {
+  margin-bottom: 100px;
 }
