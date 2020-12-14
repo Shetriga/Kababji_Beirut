@@ -1,0 +1,11 @@
+/* LOGO SECTION */
+#logo {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.logo-image {
+  width: 80%;
+  height: 80%;
+}
